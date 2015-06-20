@@ -28,7 +28,7 @@ public class MdiParentBfca extends JFrame{
 	 */
 	private JDesktopPane theDesktop;
 	public MdiParentBfca() {
-		super( "JFrame and JDesktop Example" );
+		super( "Brick Field Cost Automation" );
         JMenuBar bar = new JMenuBar();
         JMenu addMenu = new JMenu( "New" );
         JMenuItem newFrame = new JMenuItem( "internal frame" );
